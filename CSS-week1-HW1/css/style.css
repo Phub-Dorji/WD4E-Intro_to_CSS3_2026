@@ -22,3 +22,11 @@ h2{
 footer{
   background-color: gray;
 }
+li{
+  display: inline-block;
+  width: 27%;
+  text-align: center;
+  height: 100px;
+  background: green;
+  line-height: 100px;
+}
