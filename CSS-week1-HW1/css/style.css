@@ -1,4 +1,24 @@
 body{
+  backgound-color: lightblue;
   font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif, Times New Roman;
+  font-size: 120%;
+}
+header{
+  background-color: lightgray;
+  text-align: centre;
+}
+h1{
+  color: black;
+}
+nav{
+  font-variant: small-caps;
+  font-family: "sans-serif",segoe UI, Times New Roman;
   font-size: 150%;
+}
+h2{
+  color: blue;
+  background: lightblue;
+}
+footer{
+  background: gray;
 }
